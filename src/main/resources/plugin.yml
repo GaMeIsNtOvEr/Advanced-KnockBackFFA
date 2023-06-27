@@ -1,0 +1,4 @@
+name: AdvancedKnockbackFFA
+version: '${version}'
+main: me.gameisntover.advancedknockbackffa.AdvancedKnockbackFFA
+load: STARTUP
